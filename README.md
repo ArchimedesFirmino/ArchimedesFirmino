@@ -3,7 +3,7 @@
 <p>Projeto em destaque:</p>
 <p><a href = "https://github.com/ArchimedesFirmino/Site-Projeto-Java-Cape-Typa">Site Çape-Typa</a></p>
 <p>Projeto envolvendo Ionic e Java. Um site voltado para uma iniciativa social existente na região de Sepetiba - RJ.</p>
-<p>## Estou aprendendo:</p>
+<p><b>Estou aprendendo:</b></p>
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
