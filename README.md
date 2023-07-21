@@ -18,21 +18,8 @@
   <i class="devicon-firebase-plain-wordmark colored"></i>
   <i class="devicon-spring-plain-wordmark colored"></i>
   <i class="devicon-wordpress-plain-wordmark colored"></i>
-          
-          
-          
-          
-          
-          
-          
-  
-          
-          
-          
-          
-          
-  
-</div>     
+</div>
+
 ## Contatos:
 <div>
   <a href="https://www.instagram.com/teganomectiti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
