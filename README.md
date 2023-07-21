@@ -2,7 +2,7 @@
 <b> Me chamo Archimedes Firmino, sou formado em programação Java pelo SENAC Campo Grande - RJ e estou procurando novas oportunidades de aplicar os conhecimentos e ter mais desenvolvimento.</b>
 <p>Projeto em destaque:</p>
 <p><a href = "https://github.com/ArchimedesFirmino/Site-Projeto-Java-Cape-Typa">Site Çape-Typa</a></p>
-Projeto envolvendo Ionic e Java. Um site voltado para uma iniciativa social existente na região de Sepetiba - RJ.
+<p>Projeto envolvendo Ionic e Java. Um site voltado para uma iniciativa social existente na região de Sepetiba - RJ.</p>
 <p>## Estou aprendendo:</p>
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
