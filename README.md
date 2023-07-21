@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArchimedesFirmino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
+## Olá!
+<b> Me chamo Archimedes Firmino, sou formado em programação Java pelo SENAC Campo Grande - RJ e estou procurando novas oportunidades de aplicar os conhecimentos e ter mais desenvolvimento.</b>
+Projeto em destaque:
+<a href = "https://github.com/ArchimedesFirmino/Site-Projeto-Java-Cape-Typa">Site Çape-Typa</a>
+Projeto envolvendo Ionic e Java. Um site voltado para uma iniciativa social existente na região de Sepetiba - RJ.
 ## Estou aprendendo:
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
