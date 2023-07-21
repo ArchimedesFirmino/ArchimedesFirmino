@@ -2,23 +2,22 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+- 📫 How to reach me .
 ## Estou aprendendo:
 <div>
-  <i class="devicon-html5-plain-wordmark colored"></i>
-  <i class="devicon-css3-plain-wordmark colored"></i>
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-nodejs-plain colored"></i>
-  <i class="devicon-angularjs-plain colored"></i>
-  <i class="devicon-mysql-plain-wordmark colored"></i>
-  <i class="devicon-java-plain-wordmark colored"></i>
-  <i class="devicon-ionic-original-wordmark colored"></i>
-  <i class="devicon-photoshop-line colored"></i>
-  <i class="devicon-typescript-plain colored"></i>
-  <i class="devicon-firebase-plain-wordmark colored"></i>
-  <i class="devicon-spring-plain-wordmark colored"></i>
-  <i class="devicon-wordpress-plain-wordmark colored"></i>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
 
 ## Contatos:
